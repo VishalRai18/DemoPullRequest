@@ -40,6 +40,8 @@
 
  7. That's it. You have opened a PR. Wait for it to get merged.
 
+ Author: Vishal Rai
+
 
 
 ## Thank You for your Amazing Contribution!!
